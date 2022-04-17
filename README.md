@@ -3,6 +3,7 @@ Hi there! 👋
 Projects:
 - 📄 CV (April 2022)
 - 💧 Watering App (April 2022)
+- 🔢 Confirm, prompt, alert (April 2022)
 
 <!---
 motionpx/motionpx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
